@@ -1,0 +1,80 @@
+D .
+D comp
+P D12221A9 bg.png
+P 9401CC40 blank.png
+P B03390E5 btn_close.png
+P 1F3929EA button.png
+P 6CC6DF97 checkbox.png
+P FB94CCF2 clip_num.png
+P F7B6B7D7 clip_selectBox.png
+P 755271AE clip_tree_arrow.png
+P 859FD34C clip_tree_folder.png
+P A0E3B8F9 combobox.png
+P 9EDA959E hscroll$bar.png
+P 1AB768D4 hscroll$down.png
+P 685261D3 hscroll$up.png
+P 274B8076 hscroll.png
+P E466EB1C hslider$bar.png
+P C4BECA54 hslider.png
+P 5EDC128C html.png
+P ACFFCCCF image.png
+P 5EDC128C linkbutton.png
+P 9E4DD730 progress$bar.png
+P 3FD78E12 progress.png
+P BF898D6A radio.png
+P BF898D6A radiogroup.png
+P 8CFD9D35 tab.png
+P BDA71F88 textarea.png
+P BDA71F88 textinput.png
+P 52107B89 vscroll$bar.png
+P E26B933E vscroll$down.png
+P B9680947 vscroll$up.png
+P 7E990267 vscroll.png
+P E466EB1C vslider$bar.png
+P 2BFF7046 vslider.png
+D gift
+P D5E531AA gift_box.png
+P 85C80C0F gift_box2.png
+P 615D209D gift_butterfly.png
+P 302146B9 gift_butterfly2.png
+P 398D42F3 gift_flower.png
+P E9A28E90 gift_flower2.png
+P 0D0991A8 gift_flower3.png
+P 13EF7FE7 p1_bg.jpg
+D jpg
+D load
+P BAB5E745 bar1.png
+P 63FFC7DC bar2.png
+P 7DAD37E9 butterfly.png
+P 5EDC128C label.png
+P 297AAE17 load_bg.png
+P 2068F5CF load_box.png
+D p1
+P C76C04AB gift.png
+P 86D709CC p1_bg.png
+P 2D2C9B0D p1_butterfly.png
+P 916CCAB8 p1_leaves.png
+P FD204CBF p1_t1.png
+P A611AB87 p1_t2.png
+P 69D71FCD p1_t3.png
+P 0B7E52D6 prz1.png
+P 5B0FD7BD prz2.png
+P 10481B75 prz3.png
+P 680F2EE7 prz4.png
+D p3
+P 8EBACA36 p3_btn.png
+P 820D0E71 p3_butterfly.png
+P C2A2D54F p3_t1.png
+P 9A39D658 prize1.png
+P 3442A11C prize2.png
+P 57DF2891 prize3.png
+P 6546663D prize4.png
+P 2085DA1F prize5.png
+P BF8488D1 prize6.png
+P 4C7FDB39 prize7.png
+D p4
+P 0C75B9DB p4_bg.png
+P 4EB919E0 p4_butterfly.png
+P 3908D161 p4_flower.png
+P 5F7DE379 p4_leaves.png
+P 12501135 p4_t1.png
