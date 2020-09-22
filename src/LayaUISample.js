@@ -99,18 +99,14 @@ function load() {
 
 	console.log('load：'+Laya.stage.width+','+Laya.stage.height,scaleRateW,scaleRateH)
 
-// 	onTween1(self.butterfly);
-//     function onTween1(obj){
-// 	console.log('11111',obj)
-//         Tween.clearTween(onTween1);
-//         Tween.to(self.butterfly,{scaleX:0.95,scaleY:0.95},600,Ease.bounceOut,Handler.create(this,onTween2));
-//     }
-//     
-//     function onTween2(obj){
-// 	console.log('222222',obj)
-//         Tween.clearTween(onTween2);
-//         Tween.to(self.butterfly,{scaleX:1,scaleY:1},600,Ease.linearIn,Handler.create(this,onTween1));
-//     }
+	butterfly(self.butterfly)
+	function butterfly(obj){
+		Tween.to(obj,{scaleX:0.9,scaleY:0.95,y:obj.y+2},650,Ease.linearIn, Handler.create(self, function(){
+			Tween.to(obj,{scaleX:1,scaleY:1,y:obj.y},650,Ease.linearIn, Handler.create(self, function(){
+				butterfly(obj)
+			}));		
+		}));
+	}
 }
 
 Laya.class(load, "load", loadUI);
